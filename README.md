@@ -18,3 +18,5 @@ it will give two option t for today and c for custom date
 
 NOTE:- enter the date in this format if u select c option:- day(space)month3char(space)year.
 example:-27 Aug 2021
+
+video demo:-https://youtu.be/96icLw6sJYQ
