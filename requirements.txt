@@ -1,0 +1,5 @@
+regex
+html5lib
+beautifulsoup4
+wget
+requests
